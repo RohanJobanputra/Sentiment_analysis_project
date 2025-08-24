@@ -1,10 +1,10 @@
 # Sentiment_analysis_project
 
-A simple machine learning project to analyze and classify text into **positive, negative, or neutral sentiment**.  
+A simple machine learning project to analyze and classify text into **positive or negative**.  
 
 ## Features  
 - User can input text and get instant sentiment classification.  
-- Built using **Python, NLTK, and Machine Learning basics**.  
+- Built using **Python, NLTK, and Machine Learning**.  
 - Beginner-friendly project to understand NLP fundamentals.  
 
 ## How to Run  
