@@ -10,8 +10,9 @@ A simple machine learning project to analyze and classify text into **positive, 
 ## How to Run  
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+    git clone https://github.com/RohanJobanputra/Sentiment_analysis_project.git
+    cd Sentiment_analysis_project
+
 2. Install dependencies
 3. Run Jupyter Notebook / Script and test sentiment inputs.
 pip install -r requirements.txt
